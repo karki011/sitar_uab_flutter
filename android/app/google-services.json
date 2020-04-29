@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "754776278146",
+    "firebase_url": "https://sitar-uab.firebaseio.com",
+    "project_id": "sitar-uab",
+    "storage_bucket": "sitar-uab.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:754776278146:android:a6d948a3c6b3a921f0a09b",
+        "android_client_info": {
+          "package_name": "sitaruab.sitarflutter"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "754776278146-qgt39a1lmp6kd461mem6n8ueurrdnfjd.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCFfYqNcjWYZQyg9Z7q3lnXCfcKG28cXgA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "754776278146-qgt39a1lmp6kd461mem6n8ueurrdnfjd.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
